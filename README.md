@@ -12,3 +12,8 @@ PS - Internet is free and so is this. You can ask anything here.
 - Check for existing questions before asking a question. 
 - Use a succinct title and description.
 - Be civil and polite.
+
+
+-----
+
+Thanks [sindresorhus](https://github.com/sindresorhus/ama) for the template. 
